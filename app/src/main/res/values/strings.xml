@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">PerfilApp</string>
+
+    <string name="titulo_formulario">Creación de perfil</string>
+
+    <string name="label_nombres">Nombre(s)</string>
+    <string name="hint_nombres">Ingresa tu nombre o nombres</string>
+
+    <string name="label_apellidos">Apellido(s)</string>
+    <string name="hint_apellidos">Ingresa tus apellidos</string>
+
+    <string name="label_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="hint_fecha_nacimiento">Selecciona tu fecha de nacimiento</string>
+
+    <string name="label_genero">Género</string>
+
+    <string name="label_telefono">Número de teléfono</string>
+    <string name="hint_clave_pais">Clave país</string>
+    <string name="hint_telefono">Número telefónico</string>
+
+    <string name="label_correo">Correo electrónico</string>
+    <string name="hint_correo">Ingresa tu correo electrónico</string>
+
+    <string name="label_intereses">Intereses personales</string>
+    <string name="interes_musica">Música</string>
+    <string name="interes_deportes">Deportes</string>
+    <string name="interes_lectura">Lectura</string>
+    <string name="interes_viajes">Viajes</string>
+    <string name="interes_tecnologia">Tecnología</string>
+
+    <string name="label_descripcion">Descripción pública del perfil</string>
+    <string name="hint_descripcion">Escribe una breve descripción de tu perfil</string>
+
+    <string name="btn_crear_perfil">Crear perfil</string>
+
+    <string name="error_nombre_requerido">El nombre es obligatorio.</string>
+    <string name="error_apellidos_requeridos">Los apellidos son obligatorios.</string>
+    <string name="error_fecha_requerida">La fecha de nacimiento es obligatoria.</string>
+    <string name="error_menor_edad">Solo se permiten usuarios con 13 años cumplidos o más.</string>
+    <string name="error_genero_requerido">Debes seleccionar una opción de género.</string>
+    <string name="error_clave_pais_requerida">La clave de país es obligatoria.</string>
+    <string name="error_clave_pais_invalida">La clave de país debe iniciar con + y contener de 1 a 4 dígitos.</string>
+    <string name="error_telefono_requerido">El número telefónico es obligatorio.</string>
+    <string name="error_telefono_invalido_mexico">Para México el número debe tener exactamente 10 dígitos.</string>
+    <string name="error_telefono_invalido_general">El número telefónico debe tener entre 8 y 15 dígitos.</string>
+    <string name="error_correo_requerido">El correo electrónico es obligatorio.</string>
+    <string name="error_correo_invalido">Ingresa un correo electrónico válido.</string>
+
+    <string name="titulo_reporte">Reporte del perfil</string>
+    <string name="reporte_nombres">Nombre(s)</string>
+    <string name="reporte_apellidos">Apellido(s)</string>
+    <string name="reporte_fecha_nacimiento">Fecha de nacimiento</string>
+    <string name="reporte_genero">Género</string>
+    <string name="reporte_telefono">Número de teléfono</string>
+    <string name="reporte_correo">Correo electrónico</string>
+    <string name="reporte_intereses">Intereses personales</string>
+    <string name="reporte_descripcion">Descripción pública del perfil</string>
+
+    <string name="sin_intereses">No se seleccionaron intereses.</string>
+    <string name="sin_descripcion">Sin descripción pública.</string>
+    <string name="separador_lista">, </string>
+    <string name="btn_volver">Volver</string>
+
+    <string name="idioma_es">ES</string>
+    <string name="idioma_en">EN</string>
+    <string name="cd_switch_idioma">Cambiar idioma</string>
+
+    <string name="ui_badge">CÓMPUTO MÓVIL · UNAM</string>
+    <string name="ui_header_title">Crea un perfil con esta app</string>
+    <string name="ui_header_subtitle">Hecho por: Carlos Vences.</string>
+
+    <string name="ui_section_personal">Información personal</string>
+    <string name="ui_section_contact">Contacto</string>
+    <string name="ui_section_interests">Intereses</string>
+    <string name="ui_section_bio">Biografía pública</string>
+    <string name="ui_interests_helper">Puedes elegir uno o varios. Este campo es opcional.</string>
+
+    <string name="idioma_label">Idioma</string>
+
+    <string name="cd_profile_placeholder">Foto de perfil decorativa</string>
+    <string name="cd_edit_photo">Editar foto de perfil</string>
+</resources>

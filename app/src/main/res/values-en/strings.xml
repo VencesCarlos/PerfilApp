@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">PerfilApp</string>
+
+    <string name="titulo_formulario">Profile creation</string>
+
+    <string name="label_nombres">First name(s)</string>
+    <string name="hint_nombres">Enter your first name(s)</string>
+
+    <string name="label_apellidos">Last name(s)</string>
+    <string name="hint_apellidos">Enter your last name(s)</string>
+
+    <string name="label_fecha_nacimiento">Date of birth</string>
+    <string name="hint_fecha_nacimiento">Select your date of birth</string>
+
+    <string name="label_genero">Gender</string>
+
+    <string name="label_telefono">Phone number</string>
+    <string name="hint_clave_pais">Country code</string>
+    <string name="hint_telefono">Phone number</string>
+
+    <string name="label_correo">Email address</string>
+    <string name="hint_correo">Enter your email address</string>
+
+    <string name="label_intereses">Personal interests</string>
+    <string name="interes_musica">Music</string>
+    <string name="interes_deportes">Sports</string>
+    <string name="interes_lectura">Reading</string>
+    <string name="interes_viajes">Travel</string>
+    <string name="interes_tecnologia">Technology</string>
+
+    <string name="label_descripcion">Public profile description</string>
+    <string name="hint_descripcion">Write a brief description of your profile</string>
+
+    <string name="btn_crear_perfil">Create profile</string>
+    <string name="btn_volver">Back</string>
+
+    <string name="error_nombre_requerido">First name is required.</string>
+    <string name="error_apellidos_requeridos">Last name is required.</string>
+    <string name="error_fecha_requerida">Date of birth is required.</string>
+    <string name="error_menor_edad">Only users aged 13 or older are allowed.</string>
+    <string name="error_genero_requerido">You must select a gender option.</string>
+    <string name="error_clave_pais_requerida">Country code is required.</string>
+    <string name="error_clave_pais_invalida">Country code must start with + and contain 1 to 4 digits.</string>
+    <string name="error_telefono_requerido">Phone number is required.</string>
+    <string name="error_telefono_invalido_mexico">For Mexico, the phone number must contain exactly 10 digits.</string>
+    <string name="error_telefono_invalido_general">Phone number must contain between 8 and 15 digits.</string>
+    <string name="error_correo_requerido">Email address is required.</string>
+    <string name="error_correo_invalido">Enter a valid email address.</string>
+
+    <string name="titulo_reporte">Profile report</string>
+    <string name="reporte_nombres">First name(s)</string>
+    <string name="reporte_apellidos">Last name(s)</string>
+    <string name="reporte_fecha_nacimiento">Date of birth</string>
+    <string name="reporte_genero">Gender</string>
+    <string name="reporte_telefono">Phone number</string>
+    <string name="reporte_correo">Email address</string>
+    <string name="reporte_intereses">Personal interests</string>
+    <string name="reporte_descripcion">Public profile description</string>
+
+    <string name="sin_intereses">No interests were selected.</string>
+    <string name="sin_descripcion">No public description.</string>
+    <string name="separador_lista">, </string>
+
+    <string name="idioma_es">ES</string>
+    <string name="idioma_en">EN</string>
+    <string name="cd_switch_idioma">Change language</string>
+
+    <string name="ui_badge">MOBILE COMPUTING · UNAM</string>
+    <string name="ui_header_title">Create a profile with this app</string>
+    <string name="ui_header_subtitle">By: Carlos Vences.</string>
+
+    <string name="ui_section_personal">Personal information</string>
+    <string name="ui_section_contact">Contact</string>
+    <string name="ui_section_interests">Interests</string>
+    <string name="ui_section_bio">Public biography</string>
+    <string name="ui_interests_helper">You can select one or more. This field is optional.</string>
+
+    <string name="idioma_label">Language</string>
+
+    <string name="cd_profile_placeholder">Decorative profile photo</string>
+    <string name="cd_edit_photo">Edit profile photo</string>
+</resources>

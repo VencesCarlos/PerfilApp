@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_top">#F8F9FF</color>
+    <color name="bg_bottom">#EEF2FF</color>
+
+    <color name="primary_blue">#4B63FF</color>
+    <color name="primary_violet">#7B61FF</color>
+    <color name="primary_dark">#1F2A4A</color>
+
+    <color name="hero_start">#EAE6FF</color>
+    <color name="hero_end">#DCE8FF</color>
+
+    <color name="card_white">#FFFFFF</color>
+    <color name="card_stroke">#E4E9FF</color>
+
+    <color name="input_bg">#FFFFFF</color>
+    <color name="input_stroke">#D9E2FF</color>
+    <color name="input_hint">#8A95BA</color>
+
+    <color name="text_primary">#20294A</color>
+    <color name="text_secondary">#6D78A3</color>
+    <color name="text_light">#FFFFFF</color>
+
+    <color name="chip_bg">#FFFFFF</color>
+    <color name="chip_stroke">#C9D6FF</color>
+    <color name="chip_checked_start">#4B63FF</color>
+    <color name="chip_checked_end">#7B61FF</color>
+
+    <color name="badge_bg">#EEF3FF</color>
+    <color name="badge_text">#4F62B8</color>
+
+    <color name="avatar_start">#FFD38A</color>
+    <color name="avatar_end">#FFB35C</color>
+</resources>
